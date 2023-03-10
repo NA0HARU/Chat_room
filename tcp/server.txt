@@ -1,0 +1,37 @@
+SERVER: Connected clients are:
+        client 4(YOU): FREE
+
+SERVER: Connected clients are:
+        client 4(YOU): FREE
+
+SERVER: Connected clients are:
+        client 4: FREE
+        client 5(YOU): FREE
+
+SERVER: Connected clients are:
+        client 4: FREE
+        client 5: FREE
+        client 6(YOU): FREE
+
+SERVER: CONNECTED with client_4
+
+SERVER: CONNECTED with client_5
+
+CLIENT_5: hello
+canberk
+
+CLIENT_4: hello
+berkay
+
+SERVER: Connected clients are:
+        client 4: BUSY
+         client 5: BUSY
+         client 6: FREE
+        client 7(YOU): FREE
+
+CLIENT_5: berkay
+canberk
+
+CLIENT_5: berkay
+canberk
+
